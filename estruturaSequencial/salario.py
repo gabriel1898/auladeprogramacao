@@ -1,0 +1,1 @@
+print ("quanto voce ganha por hora?")
