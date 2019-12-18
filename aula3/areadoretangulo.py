@@ -1,4 +1,4 @@
-b=6
-h=3
-a=b*h
-print a
+b=input("b: ")
+h=input("h: ")
+a=int(b)*int(h)
+print("b: ",b, "h: ", h, "a: ", a)
