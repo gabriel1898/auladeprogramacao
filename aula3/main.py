@@ -1,0 +1,2 @@
+import areadoretangulo
+areadoretangulo.areaRetangulo()
