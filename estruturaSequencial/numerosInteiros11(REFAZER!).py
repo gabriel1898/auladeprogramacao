@@ -1,3 +1,5 @@
+#refazer com as variáveis int e float
+
 def inteiros():  
   a = input ("valor de a")
   b = input ("valor de b")

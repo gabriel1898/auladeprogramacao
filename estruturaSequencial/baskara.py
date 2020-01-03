@@ -6,7 +6,7 @@ def baskara():
   c = input ("valor de c ")
   d = b*b - 4*a*c
   print("valor de d", d)
-  x1 = (-b + math.sqrt(d))/2*a
+  x1 = (-b + math.sqrt(d))/(2*a)
   print (x1)
-  x2 = (-b - math.sqrt(d))/2*a
+  x2 = (-b - math.sqrt(d))/(2*a)
   print(x2)

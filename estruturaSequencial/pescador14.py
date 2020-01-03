@@ -1,4 +1,6 @@
 def multa():
   pescados = input ("numero pescados")
-  multa = (pescados - 50)*4
-  print (multa)
+  excesso = pescados - 50
+  multa = excesso*4
+  print "multa: ", multa
+  print "excesso: ", excesso
