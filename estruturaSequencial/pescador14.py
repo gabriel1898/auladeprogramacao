@@ -1,3 +1,4 @@
-pescados = 54
-multa = (pescados - 50)*4
-print (multa)
+def multa():
+  pescados = input ("numero pescados")
+  multa = (pescados - 50)*4
+  print (multa)

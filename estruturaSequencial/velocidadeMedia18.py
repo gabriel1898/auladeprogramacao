@@ -1,4 +1,5 @@
-tamanho = 300
-velocidade = 3
-tempo = tamanho/velocidade
-print (tempo)
+def tempo ():  
+  tamanho = input ("valor tamanho")
+  velocidade = input ("valor velocidade")
+  tempo = tamanho/velocidade
+  print (tempo)

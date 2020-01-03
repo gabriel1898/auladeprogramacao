@@ -1,6 +1,7 @@
-nota1 = 4
-nota2 = 6
-nota3 = 8
-nota4 = 10
-media = (nota1 + nota2 + nota3 + nota4)/4
-print (media)
+def media():
+  nota1 = input ("valor nota1")
+  nota2 = input ("valor nota2")
+  nota3 = input ("valor nota3")
+  nota4 = input ("valor nota4")
+  media = (nota1 + nota2 + nota3 + nota4)/4
+  print (media)

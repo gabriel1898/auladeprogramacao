@@ -1,3 +1,4 @@
-c = 100
-m = c/100
-print (m)
+def metros():
+  c = input ("valor centimetro")
+  m = c/100
+  print (m)
