@@ -14,6 +14,8 @@ import peso12
 import pesoHomemMulher13
 import salario08
 import velocidadeMedia18
+import tinta16
+
 #alomundo01.aloMundo()
 
 #soma03.soma()
@@ -44,4 +46,6 @@ import velocidadeMedia18
 
 #salario08.salario()
 
-velocidadeMedia18.tempo()
+#velocidadeMedia18.tempo()
+
+tinta16.custo()
