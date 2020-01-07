@@ -42,3 +42,6 @@ exercicio12.exercicio12()
 
 import exercicio13
 exercicio13.exercicio13()
+
+import exercicio14
+exercicio14.exercicio14()
