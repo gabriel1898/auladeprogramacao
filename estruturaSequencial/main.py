@@ -36,7 +36,7 @@ import tinta16
 
 #numero02.a()
 
-#numerosInteiros11.inteiros()
+numerosInteiros11.inteiros()
 
 #pescador14.multa()
 
