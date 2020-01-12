@@ -1,5 +1,5 @@
 language = "python3"
 #run = "python aula3/main.py"
 #run = "python estruturaSequencial/main.py"
-run = "python estruturaRepeticao/main.py"
 #run = "python estruturaDecisao/main.py"
+run = "python estruturaRepeticao/main.py"
