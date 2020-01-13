@@ -3,3 +3,5 @@ def exercicio1():
   for x in range(10):
     if x == numero:
       print (numero)
+
+
