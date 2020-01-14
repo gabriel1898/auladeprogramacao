@@ -80,6 +80,8 @@ def main():
 
 
 
-main()
+# o main só será chamado quando exercutar esse arquivo, dessa forma, podemos reutilizar os métodos desse arquivo
+if __name__ == "__main__":
+   main()
 
 
