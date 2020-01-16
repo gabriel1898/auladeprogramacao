@@ -1,7 +1,9 @@
 import exercicio01
 import exercicio02
 import exercicio03
+import exercicio04
 
-exercicio01.exercicio1()
-exercicio02.exercicio2()
-exercicio03.exercicio3()
+#exercicio01.main()
+#exercicio02.main()
+#exercicio03.main()
+exercicio04.main()
